@@ -1,0 +1,8 @@
+-- import: fastn
+-- fastn.package: fastn-portfolio
+-- fastn.dependency: fifthtry.github.io/doc-site 
+-- fastn.dependency: gargajit.github.io/expander
+-- fastn.dependency: fifthtry.github.io/admonitions
+-- fastn.dependency: fastn-community.github.io/winter-cs
+
+-- fastn.auto-import: fastn-portfolio/assets

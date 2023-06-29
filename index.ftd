@@ -1,0 +1,40 @@
+-- import: fifthtry.github.io/doc-site as ds
+-- import: gargajit.github.io/expander as e
+-- import: fifthtry.github.io/admonitions as cbox
+-- import: fastn-community.github.io/winter-cs
+
+
+-- ds.page: Hello, I’m Nishant Jain.
+/colors: $winter-cs.main
+/height: fill-container
+
+
+A prefinal computer science student who aspires to become a fastn developer.
+
+
+-- ds.h1: About me:
+
+I'm now a computer science student in India, freelancing and looking for internship opportunities. 
+My work primarily consists of:
+
+- Frontend Engineer
+- Graphic Design
+- UI/UX Design
+- AI based backend projects
+- Participating in Hackathons
+
+
+/-- e.box: More About Me:
+
+/I like contributing to open source and join various communities
+
+
+-- cbox.info: Hire Now: Available for Internship Roles
+
+I am proficient in Frontend Development using Technologies like:
+ReactJS, HTML, CSS/SCSS, JavaScript
+
+-- end: ds.page
+
+
+
